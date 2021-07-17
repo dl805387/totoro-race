@@ -41,7 +41,7 @@ public class Main extends Application{
 	@Override
 	public void start(Stage primaryStage) {
 		// create the GUI and setting stage and scene
-		primaryStage.setTitle("TotoroRace");  
+		primaryStage.setTitle("Totoro Race");  
 		layout = new Pane(); 
 		Scene scene = new Scene(layout, 1100, 600);
 		primaryStage.setScene(scene);   
